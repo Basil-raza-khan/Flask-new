@@ -57,16 +57,9 @@ cd todo-flask-project</code></pre>
 ├── app.py                # Main application file
 ├── requirements.txt      # List of dependencies
 ├── static/
-│   ├── css/
-│   │   └── styles.css    # Custom CSS styles
-│   └── js/
-│       └── scripts.js    # Custom JavaScript
 ├── templates/
-│   ├── base.html         # Base template
-│   ├── index.html        # Homepage template
-│   ├── add_todo.html     # Template for adding a new todo
-│   ├── update_todo.html  # Template for updating an existing todo
-│   └── search_results.html # Template for displaying search results
+│   ├── index.html        # Homepage template in-line JavaScript
+│   ├── update.html      # Template for updating an existing todo
 └── README.md             # Project README file</code></pre>
 
 <h2>Usage</h2>
